@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Sola_Bot",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "#not a bot!",
-        "I like to play Minecraft!"
+        "Keeping Server Online...",
+        "Server Config...",
+        "Saving World..."
       ]
     },
     "chat-log": true,
